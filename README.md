@@ -46,6 +46,8 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.server_forever()
 ```
 ## OUTPUT:
+file:///home/sec/Downloads/output%20image.jpeg![image](https://user-images.githubusercontent.com/118679883/207372912-c033960e-3920-429e-beac-919ded961207.png)
+file:///home/sec/Downloads/website%20image.jpeg![image](https://user-images.githubusercontent.com/118679883/207373030-9b17b51a-e475-4144-8196-213f8d756a6b.png)
 
 
 ## RESULT:
